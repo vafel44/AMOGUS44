@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\artem\source\repos\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4.cpp(53,26): warning C4566: символ, представленный универсальным именем символа "\u2717", невозможно представить в текущей кодовой странице (1251)
+C:\Users\artem\source\repos\ConsoleApplication1\ConsoleApplication4\ConsoleApplication4.cpp(64,22): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+  ConsoleApplication4.vcxproj -> C:\Users\artem\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication4.exe
